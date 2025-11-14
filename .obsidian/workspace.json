@@ -157,8 +157,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           }
         ],
@@ -181,8 +181,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0a3188a7928c19a7",
+  "active": "a4c6a133336164da",
   "lastOpenFiles": [
+    "seeing if it works",
     "111 School/Year 2/1 European Union Law/Notes/2025-11-10 - Supremacy and Direct Effect.md",
     "111 School/Year 2/1 European Union Law/Cases",
     "111 School/Year 2/1 European Union Law/Notes",
