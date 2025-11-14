@@ -1,4 +1,4 @@
-# 2025-10-07 - Is the Law Neutral ?
+# 2025-10-07 - Is the Law Neutral
 
 ---
 
