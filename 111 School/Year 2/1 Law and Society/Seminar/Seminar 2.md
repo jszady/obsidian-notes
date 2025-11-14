@@ -1,0 +1,35 @@
+
+## Questions 
+- Question 1 
+	- Hunter argues that liberal legal theory assumes people are **independent, self-sufficient individuals** who make rational choices free from social influence. This is the “fiction” of autonomy.  
+	- Her observation challenges that idea by insisting that **humans are inherently social** — our identities, opportunities, and choices are shaped by relationships (family, community, institutions). If the law treats everyone as atomistic individuals, it ignores how **power, dependence, and inequality** shape real autonomy.  
+	- So, autonomy is not an individual possession but something **constructed through social conditions** (e.g. access to care, education, and social support).
+- Question 2 
+	- Substantive equality (Fredman) goes beyond formal “equal treatment.” It looks at **real outcomes and context**, not just rules.
+		- **Disadvantage** means the structural and social conditions that prevent certain groups from enjoying the same opportunities — e.g. poverty, racism, sexism, or disability barriers.
+		- Focusing on disadvantage allows the law to **redress structural inequality**, not just treat people the same. It helps remove **systemic barriers** and acknowledges different starting points.
+		- **Benefits:** promotes fairness in outcomes, recognises lived realities, and empowers marginalised groups.
+		- **Drawbacks:** can be seen as paternalistic, hard to measure, and may risk creating resentment if it seems like “special treatment.”
+- Question 3 
+	- Fredman’s idea of **structural barriers** refers to the **“default settings”** of society — the norms that privilege certain groups and exclude others. Examples include:
+		- The “male breadwinner” norm in workplace law (assumes full-time availability).
+		- Physical infrastructure designed for able-bodied people.
+		- Cultural expectations around gender, race, or family roles.
+		- Economic systems that reward wealth and inheritance.  
+    - These barriers are **embedded in institutions**, not just individual bias — meaning true equality requires **changing social structures**, not just individual behaviour.
+- Question 4 
+	- Fineman uses **vulnerability** as a universal human condition — everyone is vulnerable because all humans depend on social and institutional structures throughout life (childhood, old age, illness, etc.).  
+	- This differs from the usual notion of “vulnerable groups,” which labels only some people (e.g. the elderly or disabled) as weak.  
+	- Fineman’s point: **vulnerability is constant and shared**, but **its impact differs** based on how much **support or protection (resources)** people have from the state and institutions.
+- Question 5 
+	- For Fineman, **resilience** is the ability to withstand or recover from vulnerability.  
+	- Resilience depends on **access to resources** — not just money, but social support, education, healthcare, legal protection, and family networks.  
+	- Therefore, resilience is **socially produced**, not purely individual. Those with more institutional support are more resilient, showing why equality requires ensuring **equitable access to resources**.
+- Question 6
+	- A **responsive state**, for Fineman, is one that **acknowledges universal vulnerability** and actively works to **build resilience** through policy, institutions, and redistribution.  
+	- Rather than assuming individuals can fix inequality themselves, the state should provide **education, healthcare, social welfare, and accessible justice** 
+	- **Examples:**
+		- Public healthcare systems (like the NHS).
+		- Welfare or childcare benefits supporting working parents.
+		- Anti-discrimination laws promoting workplace equality. 
+	- These show the state being **responsive** to human vulnerability by creating social structures that foster resilience.
