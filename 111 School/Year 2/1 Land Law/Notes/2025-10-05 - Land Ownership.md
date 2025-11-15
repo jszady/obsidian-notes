@@ -102,7 +102,7 @@ Topics: #land #ownership #historyOwnership
 		- a promise that limits what you can do on your land made in favour of another land owner 
 			- you have have the land but you cant do this 
 		- Example: a developer builds a house on new land and adds a sign no owner may use this property for business purposes you sell your house the next owner must follow the same rule 
-		- **Key Case**: [[Tulk v Moxhay[1848]]
+		- **Key Case**: [[Tulk v Moxhay]]
 	- Mortgage 
 		- a Security interest 
 			- you own the land but the bank holds a legal hook on it 

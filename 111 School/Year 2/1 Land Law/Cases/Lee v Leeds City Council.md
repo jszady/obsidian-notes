@@ -39,7 +39,7 @@ But the walls, structure, and installations had **not deteriorated**.
 Therefore:
 
  - **This is an inherent defect, not disrepair.**  
--  (Same reasoning as [[Quick v Taff-Ely BC]] and [[Post Office v Aquarius]])
+-  (Same reasoning as [[Quick v Taff-Ely BC]] and [[Post office v Aquarius]])
 
 ###  2. s11 applies only to deterioration
 

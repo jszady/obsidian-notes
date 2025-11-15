@@ -30,7 +30,7 @@ The Court of Appeal held:
 ## Reasoning
 ### 1. Disrepair = deterioration (applies **only** to things that get worse)
 
-The court relied on the rule from **[[Post Office v Aquarius]]**:
+The court relied on the rule from **[[Post office v Aquarius]]**:
 
  - “Disrepair” requires deterioration from a previous physical condition.
 
