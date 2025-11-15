@@ -13,12 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "111 School/Year 2/1 Land Law/Notes/2025-10-08 - Landlord & Tenant.md",
+=======
+                "file": "111 School/Year 2/1 European Union Law/Notes/2025-10-03 - European Integration.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< Updated upstream
               "title": "2025-10-08 - Landlord & Tenant"
+=======
+              "title": "2025-10-03 - European Integration"
+>>>>>>> Stashed changes
             }
           }
         ]
@@ -184,6 +192,7 @@
   },
   "active": "b27dec09c8a6bc42",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "Lee v Leeds City Council.md",
     "111 School/Year 2/1 Land Law/Notes/2025-10-08 - Landlord & Tenant.md",
     "LTA 1985.md",
@@ -203,6 +212,8 @@
     "111 School/Year 2/1 Land Law/Statues/LPA 1925.md",
     "111 School/Year 2/1 Land Law/Notes/2025-10-05 - Land Ownership.md",
     "111 School/Year 2/1 European Union Law/Notes/2025-10-03 - European Integration.md",
+=======
+>>>>>>> Stashed changes
     "Test/test note.md",
     "111 School/Year 2/1 Law and Society/Notes/2025-10-07 - Is the Law Neutral.md",
     "Test",
