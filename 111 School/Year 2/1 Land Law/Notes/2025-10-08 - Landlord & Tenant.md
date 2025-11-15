@@ -27,7 +27,7 @@ Topics: #Landlord #Tenant #eviction #leases #repairs #hability
 				- Service Occupancy (occupancy required for employment duties) [[Carroll v Manek]], [[Ludgate House v Ricketts]], 
 - Leasehold Estates 
 	- Exclusive Possession 
-		- Right to keep out strangers and even landlord except limited entry rights for inspection or repair [[Lord Templeman in Street]]
+		- Right to keep out strangers and even landlord except limited entry rights for inspection or repair [[Street v Mountford]]
 	- Single Occupancy cases
 		- lease exists if there is no genuine terms removing exclusive possession
 		- terms that destroy exclusivity 
@@ -42,7 +42,7 @@ Topics: #Landlord #Tenant #eviction #leases #repairs #hability
 		- Shared spaces 
 			- hard to show exclusive possession 
 			- there are 2 options 
-				- Joint Tenancy (one collective right) all occupiers together share one lease
+				- Joint Tenancy (one collective right) all occupiers together share one lease [[AG Securities v Vaughan]]
 				- the things they share 
 					- possession 
 						- each tenant has the same right to possess the whole property 
@@ -55,11 +55,11 @@ Topics: #Landlord #Tenant #eviction #leases #repairs #hability
 						- everyone signs the same agreement 
 					- Time
 						- All tenants interests start at the same time 
-						- no staggered move-ins ot later additions
+						- no staggered move-ins to later additions
 				- Separate leases for rooms + Licence for sharing parts [[Camelot v Khoo]]
 - Obligations of Landlord and Tenant
-	- Repair and maintenance [[Landlord and Tenant Act 1985]] s11
-		- applies to residential leases more then 7 years 
+	- Repair and maintenance [[LTA 1985]] s11
+		- applies to residential leases less then 7 years 
 	- Landlord must 
 		- Keep structure and exterior in repair (drains, pipes)
 		- keep installations for water, gas, electricity, sanitation in working order
@@ -69,12 +69,14 @@ Topics: #Landlord #Tenant #eviction #leases #repairs #hability
 		- [[Post office v Aquarius]] disrepair is something gets worst from previous condition 
 		- [[Quick v Taff-Ely BC]] no liability for inherent defects 
 		- [[Lee v Leeds City Council]] no general ECHR duty to keep in good condition 
+	- Important Principle 
+		- landlord not liable until notified [[O'Brien v Robinson]]
 - The homes (Fitness for Human Habitation) Act 2018
 	- inserts s9A-C into the [[LTA 1985]]
 	- applies only to leases 7 years and more 
 	- implies a covenant that the property is fit for human habitation at start and throughout
 	- tenants can sue directly for damages or injunctions
-	- **Definition of Fitness s10 [[LTA 1985]]**
+	- **Definitions of Fitness s10 [[LTA 1985]]**
 		- a house is unfit if "so defective that it is not reasonably suitable for occupation"
 		- Factors include 
 			- repairs 
@@ -95,7 +97,7 @@ Topics: #Landlord #Tenant #eviction #leases #repairs #hability
 		- Private landlords can evict without fault using [[Housing Act 1988]] s2
 		- Notice 
 			- written 2 months min
-			- 
+
 
 ## Cases Mentioned
 
