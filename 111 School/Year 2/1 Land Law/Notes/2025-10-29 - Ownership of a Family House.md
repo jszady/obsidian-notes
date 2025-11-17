@@ -191,7 +191,13 @@ Topics: #
 
 
 ## Quotes 
-
+- [[Joanna Miles 2003]] 
+	- argues current trusts law treats cohabitants unfairly and needs hybrid reform.
+- [[Anne Bottomley 2006]]
+	- Critique of extending marriage-style property law to cohabitants.
+		- [[Oxley v Hiscock]], [[Burns v Burns]]
+- [[Rebecca Probert 2007]]
+	- argues the Law Commission’s proposed cohabitation scheme is well-intentioned but flawed: it undervalues domestic contributions, struggles to measure economic disadvantage, and may leave many cohabitants worse off than under current trusts law.
 
 ## Questions
 
