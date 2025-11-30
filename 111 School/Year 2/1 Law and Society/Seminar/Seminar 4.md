@@ -1,0 +1,94 @@
+- Question 1
+	- ## **Suspicion-based stop & search**
+		- **Main one: PACE s.1 (Police and Criminal Evidence Act 1984)**  
+			- Police can stop/search if they have **reasonable suspicion** that a person has:
+				- stolen goods
+				- offensive weapons
+				- drugs
+				- items to commit crime
+	- **Why this type is controversial**
+		- **Reasonable suspicion is vague** — officers often rely on “hunches” affected by stereotypes.
+		- **Disproportionality** — Black people searched far more often (repeated in Home Office reports).
+		- **Low effectiveness** — very small arrest/contraband rate.
+		- Still intrusive and humiliating even with legal safeguards.
+	- ## **Suspicionless stop & search**
+		- ### **s.60 Criminal Justice and Public Order Act 1994**
+			- Senior officer authorises searches **in anticipation of violence**.
+			- Can stop **anyone**, **no suspicion required**.
+			- Purpose: find weapons, prevent serious violence.
+	- ### **s.44 Terrorism Act 2000 (replaced by s.47A)**
+		- Allowed police to stop/search **any person or vehicle** in an authorised area.
+		- No suspicion needed.
+		- Used heavily after 9/11 and the London attacks.
+	- **Evidence from PDF:**  
+		- Use peaked around 2008–09 at:
+		- **Over 150,000 searches** under s.60
+		- **Over 200,000 searches** under s.44
+	- ## **Why suspicionless powers are controversial**
+		- ### **(a) They violate rule of law principles**
+			- Rule of law = state power must be constrained by clear criteria.
+			- Suspicionless powers give **wide, unfettered discretion** → risk of arbitrary policing.
+			- ECtHR ruled s.44 **not “in accordance with law”** under Article 8.
+		- ### **b) Massive racial disproportionality**
+			- Black people were **up to 28 times more likely** to be stopped under s.60.
+		- ### **(c) Almost zero effectiveness**
+			- Lord Carlile repeatedly stated **no terrorism arrests** from s.44.
+		- ### **(d) Severe community damage**
+			- Young Black men felt targeted → distrust, alienation, trauma.
+			- Stops happened for trivial reasons (photographers, protesters, trainspotters).
+		- ### **(e) Used beyond their legal purpose**
+			- s.44 used to manage **ordinary protest**, not terrorism.
+			- s.60 used as general “aggressive policing” tool during knife-crime panic.
+- Question 2
+	- # **Is an active State always a responsive State?” (Fineman + racism + stop & search)**
+		- ## **Fineman basics (very simple)**
+			- Everyone is **vulnerable** because we depend on social institutions.
+			- A **responsive state** should distribute resources fairly to help people build **resilience**.
+			- The state fails when its institutions create **inequality**, not resilience.
+	- ## **Key idea**
+		- The state being “active” ≠ the state being “responsive”.
+		- Stop & search proves this.
+	- ### **Why?**
+		- Stop & search is a form of **active state intervention**—highly intrusive.
+		- But its effects **reduce resilience** for racialised communities (especially Black communities) by:
+		    - increasing fear
+		    - lowering trust
+		    - producing criminalisation
+		    - reinforcing stereotypes
+		    - discouraging cooperation with police
+	- ## **How stop & search shows institutional racism**
+		- **Disproportionality** = evidence of institutional bias.
+		- Reasonable suspicion often rests on **racialised assumptions**.
+			- Suspicionless searches amplify structural racism because officers rely on “professional intuition” which is affected by stereotypes.
+	- ## **Conclusion**
+		- The state is **active** through policing.
+		- But it is _not_ **responsive**, because it worsens vulnerability and reduces resilience, especially for Black and minority communities.
+- Question 3 
+	- ## **(1) Structural injustices for neurodivergent people in the criminal legal system**
+		- **Communication barriers** → misunderstanding police instructions → escalation.
+		- Behaviours misread as “suspicious”, “non-compliant”, “aggressive”.
+		- Lack of adapted procedures = unfair risk of arrest.
+		- Prison and court systems not designed for sensory/processing differences.
+		- Neurodivergent people over-policed and under-supported.
+	- ## **(2) Structural injustices in stop & search**
+		- ### **(a) Highly discretionary powers**
+			- Broad discretion = racialised outcomes.
+			- “Reasonable suspicion” built on police culture, not neutrality.
+		- ### **(b) Police culture (habitus)**
+			- Officers rely on “common sense” assumptions: who looks criminal, who looks dangerous.
+			- These assumptions reflect societal racism.
+		- ### **(c) Political environment**
+			- Knife-crime and terrorism panics justified mass searches of Black and Asian communities.
+		- ### **(d) Very low arrest rates**
+			- Shows power used symbolically, not effectively.
+		- ### **(e) Community harm**
+			- Damages trust → less willingness to report crime → worsens safety.
+- Question 4
+	- **Area:** Criminal law  
+		- **Vulnerable subject:** Criminal defendant
+		- **Risks:** Power imbalance, detention, coercive pleading, racial bias, mental health misunderstandings.
+		- **Structures hindering resilience:** Stop & search discrimination, remand overuse, legal-aid cuts, mandatory sentences, complex procedures.
+		- **Structures supporting resilience:** Legal representation, PACE rights, burden of proof, disclosure rules.
+		- **What a responsive state would do:**  
+			- Reduce discrimination, increase legal aid, adapt procedures for neurodivergence, divert people to services, expand bail support, strengthen oversight.
+- Question 5
