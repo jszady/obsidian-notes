@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "111 School/Year 2/1 Law and Society/Seminar/Seminar 3.md",
+                "file": "111 School/Year 2/1 Law and Society/Notes/Police Powers Stop and Search.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Seminar 3"
+              "title": "Police Powers Stop and Search"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 285.5,
+    "collapsed": true
   },
   "right": {
     "id": "4af04e44c27502be",
@@ -183,10 +184,16 @@
   },
   "active": "b27dec09c8a6bc42",
   "lastOpenFiles": [
-    "111 School/Year 2/1 Law and Society/Seminar/Seminar 2.md",
-    "111 School/Year 2/1 Law and Society/Seminar/Seminar 3.md",
-    "111 School/Year 2/1 Law and Society/Seminar/Seminar 1.md",
+    "111 School/Year 2/1 Land Law/Seminars/Seminar 3.md",
+    "111 School/Year 2/1 Law and Society/Notes/Police Powers Stop and Search.md",
     "111 School/Year 2/1 Land Law/Notes/2025-10-29 - Ownership of a Family House.md",
+    "111 School/Year 2/1 Land Law/Seminars/Seminar 1.md",
+    "111 School/Year 2/1 European Union Law/Notes/2025-11-10 - Supremacy and Direct Effect.md",
+    "111 School/Year 2/1 European Union Law/Notes/2025-11-17 - Incidental and Indirect effect and State Liability.md",
+    "111 School/Year 2/1 European Union Law/Notes/2025-11-03 - Free Movement of Services.md",
+    "111 School/Year 2/1 Law and Society/Seminar/Seminar 3.md",
+    "111 School/Year 2/1 Law and Society/Seminar/Seminar 2.md",
+    "111 School/Year 2/1 Law and Society/Seminar/Seminar 1.md",
     "Rebecca Probert 2007.md",
     "111 School/Year 2/1 Land Law/Articles/Anne Bottomley 2006.md",
     "111 School/Year 2/1 Land Law/Articles/Joanna Miles 2003.md",
@@ -204,12 +211,6 @@
     "111 School/Year 2/1 Land Law/Cases/Booked v Palmer.md",
     "111 School/Year 2/1 Land Law/Cases/Aslan v Murphy.md",
     "111 School/Year 2/1 Land Law/Cases/Global 100 v Laleva.md",
-    "111 School/Year 2/1 Land Law/Cases/Antoniades v Villiers.md",
-    "111 School/Year 2/1 Land Law/Cases/Dresden Estates v Collinson.md",
-    "111 School/Year 2/1 Land Law/Cases/Street v Mountford.md",
-    "111 School/Year 2/1 Land Law/Cases/Ludgate House v Ricketts.md",
-    "111 School/Year 2/1 Land Law/Cases/Carroll v Manek.md",
-    "111 School/Year 2/1 Land Law/Statues/LPA 1925.md",
     "Test",
     "seeing if it works",
     "111 School/Year 2/1 European Union Law/Cases",
